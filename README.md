@@ -1,2 +1,5 @@
 # hello-world
-first project
+
+Hi Bamboo99
+
+chatBot here I like Node.js and coffe 
